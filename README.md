@@ -5,7 +5,6 @@
 ## 🚀 About Me:
 💻 **Aspiring Software Developer** | Web & AI Enthusiast<br>
 🛠️ **Crafting intelligent projects** | one algorithm at a time, to make life easier<br>
-🎥 **Anime Content Creator** | Running **Aniphilia** on YouTube
 
 ## 🛠 Tech Skills:
 <p align="left">
@@ -17,5 +16,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
 
-⭐ **Fun Fact:** I love coding & everything anime! 🎬
+⭐ **Fun Fact:** I love coding & binging anime! 🎬
 
