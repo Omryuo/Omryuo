@@ -16,12 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
 
-## 📌 Projects:
-- 🏠 **Real Estate Website** - HTML, CSS, JS & MongoDB
-- 🎶 **Basic AI Music System** - ML-based music generation
-- 📝 **Various Python Mini Projects**
-
-
 ## 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omswaroop%20T%20M-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omee-414-/) 
 [![Instagram](https://img.shields.io/badge/Instagram-omee_414_-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/omee_414_)  
