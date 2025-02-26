@@ -3,8 +3,8 @@
 ### **Learn. Build. Inspire.**
 
 ## 🚀 About Me:
-💻 **Aspiring Software Developer** | Web & AI Enthusiast
-🛠️ **Crafting intelligent projects** | one algorithm at a time, to make life easier
+💻 **Aspiring Software Developer** | Web & AI Enthusiast<br>
+🛠️ **Crafting intelligent projects** | one algorithm at a time, to make life easier<br>
 🎥 **Anime Content Creator** | Running **Aniphilia** on YouTube
 
 ## 🛠 Tech Skills:
